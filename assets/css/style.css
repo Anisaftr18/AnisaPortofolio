@@ -239,19 +239,7 @@
 /* end conn */
 
 /* ========================== */
-/* resume */
-.resume {
-    margin-top: 150px;
-    height: 1100px;
-}
 
-.edu p {
-    font-size: 12px;
-}
-.edu ul {
-    font-size: 12px;
-}
-/* end resume */
 
 /* project */
 .projects {
@@ -280,6 +268,40 @@
     box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /* end project */
+
+/* ===================== resume page */
+/* hero */
+.hero-res {
+    /* background-color: #DEB575; */
+    margin-top: 150px;
+    height: 570px;
+}
+
+.herores-text1 {
+    font-weight: bolder;
+    margin-top: 90px;
+    font-size: 40px;
+}
+
+.herores-text2 {
+    font-size: 15px;
+}
+/* end hero */
+
+.resume {
+    /* margin-top: 10px; */
+    height: 1100px;
+}
+
+.edu p {
+    font-size: 12px;
+}
+.edu ul {
+    font-size: 12px;
+}
+
+/* end resume */
+
 /* Scroll To Top */
 .scrollTop {
     position: fixed;
