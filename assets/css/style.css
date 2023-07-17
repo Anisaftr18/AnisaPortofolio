@@ -274,7 +274,13 @@
 .hero-res {
     /* background-color: #DEB575; */
     margin-top: 150px;
-    height: 570px;
+    height: 480px;
+}
+
+.hero-res .container {
+    /* background-color: #DEB575; */
+    /* margin-top: 100px; */
+    height: 500px;
 }
 
 .herores-text1 {
